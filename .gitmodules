@@ -1,0 +1,3 @@
+[submodule "python/xrpc"]
+	path = python/xrpc
+	url = https://github.com/eddyzhou/xrpc.git
